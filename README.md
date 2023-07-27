@@ -31,4 +31,4 @@ The following actions take place when running the program
 This program works only for Realsense cameras with depth features. It has been tested with L515 and D435i.
 
 ## Result:
-The output obtained from this program can be viewed in the [Result folder].(https://github.com/saisatheesh5/RS-Human-detection/tree/main/Result)
+The output obtained from this program can be viewed in the [Result folder](https://github.com/saisatheesh5/RS-Human-detection/tree/main/Result).
